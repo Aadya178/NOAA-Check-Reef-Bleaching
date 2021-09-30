@@ -82,6 +82,10 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 
 ## Model Used
 
+> The output is given certain factors (which may cause reef bleaching) whether or not the coral reef has actually been bleached.
+> 
+> The accuracy of the output prediction is greater than 96%.
+> 
 > The model is being trained using Logistic Regression algorithm.
 > 
 > The target variable is `Bleaching`.
