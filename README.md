@@ -13,7 +13,7 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 
 ## Contents
 
-- [Problem statement](problem statement)
+- [Problem Statement](problem statement)
 - [Objective](objective)
 - [Dataset](dataset)
 - [Process Flow](process flow)
