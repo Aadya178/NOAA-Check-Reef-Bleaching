@@ -1,3 +1,5 @@
+<!-- INTRODUCTION -->
+
 # NOAA-Check-Reef-Bleaching
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
@@ -5,14 +7,14 @@
 Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching around the world.
 
 <p align="center">
-<img src="https://www.worldatlas.com/r/w1200/upload/22/87/70/coral-reef-singapore-aquarium-volodymyr-goinyk.jpg" width="290">
+<img src="https://www.worldatlas.com/r/w1200/upload/22/87/70/coral-reef-singapore-aquarium-volodymyr-goinyk.jpg" height="400" width="700">
 </p>
 
 *[NOAA](https://www.noaa.gov/) (National Oceanic and Atmospheric Administration) understands and predicts changes in climate, weather, oceans, and coasts. It shares this with others to help conserve and manage coastal and marine ecosystems and resources.*
 
+<!-- ABOUT THE PROJECT -->
 
 ## Overview
-
 
 <details open="open">
   <summary>Contents</summary>
@@ -41,6 +43,8 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
   </ul>
 </details>
 
+<!-- DETAILED EXPLANATION -->
+
 ## Problem Statement
 
 > Coral reefs are an integral part of the ecosystem for life underwater. They protect coastal areas and provide an income source to millions of people.
@@ -63,14 +67,30 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 > * Sewage
 > * Industrail
 > * Commercial
-
-# attach table snip
+> 
+> <p align="center">
+  <img src="dataset.PNG">
+  </p>
 
 ## Process Flow
 
+> The dataset will be analyzed in the following manner.
+> 
+> <p align="center">
+  <img src="process-flow.PNG">
+  </p>
+
 ## Model Used
 
+> The model is being trained using Logistic Regression algorithm.
+> 
+> The target variable is `Bleaching`.
+
 ## Predicted Output
+
+> The model's accuracy is being evaluated using K-fold cross-validation.
+> 
+> The evaluation metrics include RMSE(Root Mean Square Error) and R2 score.
 
 ## References
 
