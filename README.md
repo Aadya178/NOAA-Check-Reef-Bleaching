@@ -13,26 +13,34 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 
 ## Contents
 
-- [Problem Statement](problem statement)
-- [Objective](objective)
-- [Dataset](dataset)
-- [Process Flow](process flow)
-- [Model Used](model used)
-- [Predicted Output](predicted output)
-- [References](references)
 
-### Problem Statement
+<details open="open">
+  <summary href="#contents">Contents</summary>
+  <ul>
+    <li>
+      <a href="#problem">Problem Statement</a>
+    </li>
+    <li>
+      <a href="objective">Objective</a>
+    </li>
+    <li>
+      <a href="#dataset">Dataset</a>
+    </li>
+    <li>
+      <a href="#process">Process Flow</a>
+    </li>
+    <li>
+      <a href="#model">Model Used</a>
+    </li>
+    <li>
+      <a href="#output">Predicted Output</a>
+    </li>
+    <li>
+      <a href="#references">References</a>
+    </li>
+  </ul>
+</details>
 
-### Objective
+## [Problem Statement]
 
-### Dataset
-
-### Process Flow
-
-### Model Used
-
-### Predicted Output
-
-### References
-
-[Back To Top](contents)
+## [Objective](objective)
