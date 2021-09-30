@@ -15,25 +15,25 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 
 
 <details open="open">
-  <summary href="#contents">Contents</summary>
+  <summary>Contents</summary>
   <ul>
     <li>
-      <a href="#problem">Problem Statement</a>
+      <a href="#problem-statement">Problem Statement</a>
     </li>
     <li>
-      <a href="objective">Objective</a>
+      <a href="#objective">Objective</a>
     </li>
     <li>
       <a href="#dataset">Dataset</a>
     </li>
     <li>
-      <a href="#process">Process Flow</a>
+      <a href="#process-flow">Process Flow</a>
     </li>
     <li>
-      <a href="#model">Model Used</a>
+      <a href="#model-used">Model Used</a>
     </li>
     <li>
-      <a href="#output">Predicted Output</a>
+      <a href="#predicted-output">Predicted Output</a>
     </li>
     <li>
       <a href="#references">References</a>
@@ -41,6 +41,16 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
   </ul>
 </details>
 
-## [Problem Statement]
+## Problem Statement
 
-## [Objective](objective)
+## Objective
+
+## Dataset
+
+## Process Flow
+
+## Model Used
+
+## Predicted Output
+
+## References
