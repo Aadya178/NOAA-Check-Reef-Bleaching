@@ -1,6 +1,6 @@
 <!-- INTRODUCTION -->
 
-# NOAA-Check-Reef-Bleaching
+# NOAA Check Reef Bleaching
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
