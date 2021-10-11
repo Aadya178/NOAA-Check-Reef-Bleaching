@@ -48,18 +48,18 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 
 <!-- DETAILED EXPLANATION -->
 
-## Problem Statement 🤔
-
+## Problem Statement
+🤔
 > Coral reefs are an integral part of the ecosystem for life underwater. They protect coastal areas and provide an income source to millions of people.
 > But over the past few decades they have been affected by industrialization and other human-induced factors.
 > This has resulted in coral reef bleaching in various oceans which in turn is reducing their growth rates and making them susceptible to diseases.
 
-## 🎯 Objective
-
+## Objective
+🎯
 > The aim of coral reefs' bleaching analysis is to identify the prime factors which affect reef bleaching in different areas and to further understand how gravely each of these factors causes bleaching in different oceans.
 
-## 📊 Dataset
-
+## Dataset
+📊
 > The [dataset](https://www.kaggle.com/oasisdata/noaa-reef-check-coral-bleaching-data) contains the following columns which have been identified as the prime causes of reef bleaching.
 > 
 > * Storms
@@ -75,8 +75,8 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
   <img src="dataset.PNG">
   </p>
 
-## 🎞️ Process Flow
-
+## Process Flow
+🎞️
 > The dataset will be analyzed in the following manner.
 > 
 > <p align="center">
@@ -84,7 +84,7 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
   </p>
 
 ## Data Visualization
-
+👀
 > Boxplot
 >
 > <p align="left">
@@ -139,8 +139,8 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
   <img src="Storm occurence considering Human impact and Year.PNG">
   </p>
 
-## 🤖 Model Used
-
+## Model Used
+🤖
 > The output is given certain factors (which may cause reef bleaching) whether or not the coral reef has actually been bleached.
 > 
 > The accuracy of the output prediction is greater than 96%.
@@ -149,8 +149,8 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 > 
 > The target variable is `Bleaching`.
 
-## 💯 Predicted Output
-
+## Predicted Output
+💯 
 > The model's accuracy is being evaluated using K-fold cross-validation.
 > 
 > The evaluation metrics include RMSE(Root Mean Square Error) and R2 score.
