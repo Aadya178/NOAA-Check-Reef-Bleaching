@@ -90,13 +90,13 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 > <p align="left">
   <img src="Depth Boxplot.png">
   </p>
->
+
 > Barplot
 >
 > <p align="left">
   <img src="Depth vs Year Barplot.png">
   </p>
->
+
 > Histogram
 >
 > <p align="left">
@@ -108,31 +108,31 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 > <p align="left">
   <img src="Depth vs Year Scatterplot.png">
   </p>
->
+
 > Bleaching vs Ocean
-> 
+>
 > <p align="left">
   <img src="Bleaching vs Ocean.PNG">
   </p>
->
+
 > Bleaching vs Year
 > 
 > <p align="left">
   <img src="Bleaching vs Year.PNG">
   </p>
->
+
 > Year-wise Bleaching
 > 
 > <p align="left">
   <img src="Year-wise Bleaching.PNG">
   </p>
->
+
 > Year-wise Storms
 > 
 > <p align="left">
   <img src="Year-wise Storms.PNG">
   </p>
->
+
 > Storm occurence considering Human Impact and Year
 > 
 > <p align="left">
