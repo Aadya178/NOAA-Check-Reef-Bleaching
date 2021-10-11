@@ -48,7 +48,7 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 
 <!-- DETAILED EXPLANATION -->
 
-## 🤔 Problem Statement
+## Problem Statement
 
 > Coral reefs are an integral part of the ecosystem for life underwater. They protect coastal areas and provide an income source to millions of people.
 > But over the past few decades they have been affected by industrialization and other human-induced factors.
