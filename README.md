@@ -32,7 +32,7 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
       <a href="#process-flow">Process Flow</a>
     </li>
     <li>
-      <a href="#data-visulization">Data Vizualization</a>
+      <a href="#data-visualization">Data Visualization</a>
     </li>
     <li>
       <a href="#model-used">Model Used</a>
@@ -83,7 +83,7 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
   <img src="process-flow.PNG">
   </p>
 
-## Data Vizualization
+## Data Visualization
 
 > Boxplot
 >
