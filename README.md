@@ -68,7 +68,7 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 > * Dynamite
 > * Poison
 > * Sewage
-> * Industrail
+> * Industrial
 > * Commercial
 
 
@@ -115,7 +115,7 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 
 ## References
 🔖
-> The following linkes were used to style this README -
+> The following links were used to style this README -
 > 
 > https://github.com/athityakumar/colorls/
 > 
