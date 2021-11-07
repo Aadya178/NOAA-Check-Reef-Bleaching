@@ -70,10 +70,7 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 > * Sewage
 > * Industrail
 > * Commercial
-> 
-> <p align="center">
-  <img src="dataset.PNG">
-  </p>
+
 
 ## Process Flow
 🎞️
@@ -85,29 +82,10 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 
 ## Data Visualization
 👀
-> Boxplot
->
-> <p align="left">
-  <img src="Depth Boxplot.png">
-  </p>
-
-> Barplot
->
-> <p align="left">
-  <img src="Depth vs Year Barplot.png">
-  </p>
-
-> Histogram
->
-> <p align="left">
-  <img src="Depth Histogram.png">
-  </p>
-
-> Scatterplot
->
-> <p align="left">
-  <img src="Depth vs Year Scatterplot.png">
-  </p>
+> The data has been visualized using the following 3 methods:
+> 1. [Jupyter Notebook](https://github.com/Aadya178/NOAA-Check-Reef-Bleaching/blob/main/NOAA%20Reef%20Bleaching.ipynb)
+> 2. Zoho Analytics
+> 3. Microsoft Excel
 
 > Bleaching vs Ocean
 >
@@ -155,8 +133,8 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 > 
 > The evaluation metrics include RMSE(Root Mean Square Error) and R2 score.
 
-## 🔖 References
-
+## References
+🔖
 > The following linkes were used to style this README -
 > 
 > https://github.com/athityakumar/colorls/
