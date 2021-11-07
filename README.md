@@ -84,11 +84,17 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 👀
 > The data has been visualized using the following 3 methods:
 > 1. [Jupyter Notebook](https://github.com/Aadya178/NOAA-Check-Reef-Bleaching/blob/main/NOAA%20Reef%20Bleaching.ipynb)
+> 
 > 2. Zoho Analytics
-> [Bleaching Analysis](https://analytics.zoho.in/open-view/208788000000006013)
-> [Depth Analysis](https://analytics.zoho.in/open-view/208788000000004195)
-> [Year Analysis](https://analytics.zoho.in/open-view/208788000000004253)
-> [Depth vs Year Analysis](https://analytics.zoho.in/open-view/208788000000004280)
+> 
+>     [Bleaching Analysis](https://analytics.zoho.in/open-view/208788000000006013)
+> 
+>     [Depth Analysis](https://analytics.zoho.in/open-view/208788000000004195)
+> 
+>     [Year Analysis](https://analytics.zoho.in/open-view/208788000000004253)
+> 
+>     [Depth vs Year Analysis](https://analytics.zoho.in/open-view/208788000000004280)
+> 
 > 3. Microsoft Excel
 
 ## Model Used
