@@ -32,6 +32,9 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
       <a href="#process-flow">Process Flow</a>
     </li>
     <li>
+      <a href="#libraries-used">Libraries Used</a>
+    </li>
+    <li>
       <a href="#data-analysis-and-visualization">Data Analysis and Visualization</a>
     </li>
     <li>
@@ -79,6 +82,20 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 > <p align="center">
   <img src="process-flow.PNG">
   </p>
+  
+## Libraries Used
+
+> `numpy` 
+> 
+> `matplotlib`
+> 
+> `scipy`
+> 
+> [`pandas`]()
+> 
+> [`sklearn`](https://scikit-learn.org/stable/) scikit-learn features various classification, regression and clustering algorithms and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
+> 
+> [`seaborn`](https://seaborn.pydata.org/) is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 ## Data Analysis and Visualization
 👀
