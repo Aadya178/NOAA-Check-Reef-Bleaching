@@ -8,21 +8,21 @@ The following [analyses](https://docs.google.com/spreadsheets/d/17YlEJlnEoazerE2
 > 
 > 2. The column `Bleaching` (column B) has been label encoded:
 > 
-> 0 No
+>    0 No
 > 
-> 1 Yes
+>    1 Yes
 > 
 > 3. The column `Ocean` (column D) has been label encoded:
 > 
-> 0 Arabian Gulf
+>    0 Arabian Gulf
 > 
-> 1 Atlantic
+>    1 Atlantic
 > 
-> 2 Indian
+>    2 Indian
 > 
-> 3 Pacific
+>    3 Pacific
 > 
-> 4 Red Sea
+>    4 Red Sea
 > 
 > 4. In the column `Year`, alternate years have been highlighted to provide clarity.
 > 
