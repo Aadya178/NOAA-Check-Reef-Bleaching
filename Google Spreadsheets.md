@@ -7,14 +7,21 @@ The following [analyses](https://docs.google.com/spreadsheets/d/17YlEJlnEoazerE2
 > 1. The data was initially randomly arranged. It was first sorted by `Year` (Ascending) then by `Ocean` (Ascending) and lastly by `Bleaching` (Descending) to give a better view.
 > 
 > 2. The column `Bleaching` (column B) has been label encoded:
+> 
 > 0 No
+> 
 > 1 Yes
 > 
 > 3. The column `Ocean` (column D) has been label encoded:
+> 
 > 0 Arabian Gulf
+> 
 > 1 Atlantic
+> 
 > 2 Indian
+> 
 > 3 Pacific
+> 
 > 4 Red Sea
 > 
 > 4. In the column `Year`, alternate years have been highlighted to provide clarity.
