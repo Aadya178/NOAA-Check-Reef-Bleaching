@@ -105,7 +105,7 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 > 
 > 2. [Zoho Analytics](https://github.com/Aadya178/NOAA-Check-Reef-Bleaching/blob/main/Zoho%20Analytics.md)
 > 
-> 3. [Google Spreadsheets](https://github.com/Aadya178/NOAA-Check-Reef-Bleaching/blob/main/Google%20Spreadsheet.md)
+> 3. [Google Spreadsheets](https://github.com/Aadya178/NOAA-Check-Reef-Bleaching/blob/main/Google%20Spreadsheets.md)
 
 ## Model Used
 🤖
