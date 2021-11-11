@@ -16,7 +16,7 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 
 ## Overview
 
-<details open="open">
+<details>
   <summary>Contents</summary>
   <ul>
     <li>
@@ -128,11 +128,9 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 🔖
 > The following links were used to style this README -
 > 
-> https://github.com/athityakumar/colorls/
-> 
 > https://github.com/othneildrew/Best-README-Template/
-> 
-> https://github.com/chroline/well_app/
 > 
 > https://github.com/xnbox/DeepfakeHTTP/
 
+👋🏻 Hi! Thanks for stopping by.
+Give it a ⭐ if you like it!
