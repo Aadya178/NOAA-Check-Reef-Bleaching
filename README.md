@@ -16,7 +16,7 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 
 ## Overview
 
-<details>
+<details open="open">
   <summary>Contents</summary>
   <ul>
     <li>
