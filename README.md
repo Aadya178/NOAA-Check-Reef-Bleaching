@@ -63,8 +63,12 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 
 ## Dataset
 📊
-> The [dataset](https://www.kaggle.com/oasisdata/noaa-reef-check-coral-bleaching-data) contains the following columns which have been identified as the prime causes of reef bleaching.
+> The [dataset](https://www.kaggle.com/oasisdata/noaa-reef-check-coral-bleaching-data) contains the following attributes.
 > 
+> * Bleaching
+> * Ocean
+> * Year
+> * Depth
 > * Storms
 > * Human Impact
 > * Siltation
